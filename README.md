@@ -1,0 +1,1 @@
+Some quick notes on Python3 while I crash course the language
